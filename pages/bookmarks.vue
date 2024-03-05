@@ -30,7 +30,7 @@
 const description =
   "Awesome things I've found on the internet. This page is still needs a lot more work but I'll add more later.";
 useSeoMeta({
-  title: "Bookmarks | Fayaz Ahmed",
+  title: "Bookmarks | Noah Victoriano",
   description,
 });
 
