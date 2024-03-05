@@ -28,7 +28,7 @@
 const links = [
   {
     name: "Twitter",
-    url: "https://twitter.com/_unintellectual",
+    url: "https://twitter.com/_unintelectual",
     icon: "mdi:twitter",
   },
   {
