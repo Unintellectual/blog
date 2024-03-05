@@ -1,7 +1,7 @@
 {
-  "name": "Feedbackjar",
-  "url": "https://feedbackjar.app",
-  "description": "Open source feedback, roadmaps and changelogs",
+  "name": "Ted",
+  "url": "https://github.com/Unintellectual/ted",
+  "description": "Open source text editor made in C with no GUI frameworks",
   "thumbnail": "/projects/feedbackjar.png",
   "status": "WIP",
   "opensource": true

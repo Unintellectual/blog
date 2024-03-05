@@ -41,10 +41,5 @@ const links = [
     url: "https://www.linkedin.com/in/noah-victoriano-8200b7279/",
     icon: "mdi:linkedin",
   },
-  // {
-  //   name: "Telegram",
-  //   url: "https://t.me/fayazara",
-  //   icon: "mdi:telegram",
-  // },
 ];
 </script>
