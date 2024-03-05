@@ -2,7 +2,7 @@
 
 Zooper is a beautiful personal portfolio template for developers, programmers, freelancers and designers.
 
-![Zooper template home preview](publinc/preview.jpg)
+![Zooper template home preview](public/preview.jpg)
 
 
 
