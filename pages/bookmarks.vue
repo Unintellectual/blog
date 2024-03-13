@@ -40,6 +40,16 @@ const bookmarks = [
     label: "Structure and Interpretation of Computer Programs",
     url: "https://sarabander.github.io/sicp/html/index.xhtml",
   },
+  {
+    id: 2,
+    label: "The Last Algorithms Course You'll Need",
+    url: "https://frontendmasters.com/courses/algorithms/big-o-time-complexity/",
+  },
+  {
+    id: 3,
+    label: "Learn Go with Tests",
+    url: "https://quii.gitbook.io/learn-go-with-tests/",
+  },
 ];
 
 function getHost(url) {
