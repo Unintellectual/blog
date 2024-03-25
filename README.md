@@ -1,7 +1,7 @@
 # My personal website
 
 
-![Zooper template home preview](public/preview.jpg)
+![portfolio-2023 preview](public/preview.jpg)
 
 
 
